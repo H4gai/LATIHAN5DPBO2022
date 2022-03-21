@@ -2,7 +2,7 @@
 
 ##### Saya Hagai Brayen Setiawan mengerjakan latihan 5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-#####hasil tampilan dan ss ada pada link :
+##### hasil tampilan dan ss ada pada link :
 https://github.com/H4gai/LATIHAN5DPBO2022/tree/main/SS
 
 a. Mengganti font dan ukuran teks
